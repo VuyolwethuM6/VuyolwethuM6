@@ -1,8 +1,61 @@
-- 👋 Hi, I’m @VuyolwethuM6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I'm Vuyowethu Mabhuleka 👋
+
+Welcome to my GitHub profile! I'm a passionate Software Dev Candidate based in Cape Town. Here, you'll find a collection of my projects, contributions, and some insights into my coding journey.
+
+## About Me
+
+- 🔭 I'm currently working on Bursary Application Website.
+- 🌱 I'm constantly learning and improving my skills in [HTML, CSS, JavaScript].
+- 📚 I love to share my knowledge and insights through [https://www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289/].
+- 💬 Let's connect! Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289) or [Twitter](https://twitter.com/VuyoMabhuleka).
+
+## My Projects
+
+Here are some of the projects I've worked on:
+
+1. **[Creative Tutors](https://creative-tutors-website.netlify.app/)**
+   - Brief description of the project.
+   - Technologies used: List technologies or languages used.
+   - [Demo](https://creative-tutors-website.netlify.app/) | [Repository](https://github.com/VuyolwethuM6/Creative-Tutors-Website)
+
+2. **[Another Project](Link to Project)**
+   - A platform to showcase a tutoring services and provide valuable resources for students.
+   - Technologies used: HTML, CSS, JavaScript.
+   - [Demo](Link to live demo) | [Repository](Link to GitHub repo)
+
+3. **[Software Development Team](https://creative-innovators-portfolio.netlify.app/)**
+   - A talented team of software development interns passionate about technology and innovation
+   - Technologies used: HTML, CSS, JavaScript.
+   - [Demo](https://creative-innovators-portfolio.netlify.app/) | [Repository](https://github.com/VuyolwethuM6/Creative-Innovators-Portfolio)
+
+You can find more of my projects in my [GitHub repositories](https://github.com/VuyolwethuM6).
+<!--
+## My Blog
+
+I occasionally write about [Your Blog Topics] on my blog. Here are some of my recent articles:
+
+1. [Article Title 1](Link to Article)
+   - Brief description of the article.
+
+2. [Article Title 2](Link to Article)
+   - Brief description of the article.
+
+3. [Article Title 3](Link to Article)
+   - Brief description of the article.
+
+Feel free to check out [my blog](Link to your blog) for more content!
+-->
+## Get in Touch
+
+I'm always open to interesting collaborations and conversations. You can reach out to me via:
+
+- Email: [Vuyolwethu Mabhuleka](mailto:vmabhuleka@gmail.com)
+- LinkedIn: [Vuyolwethu Mabhuleka](https://www.linkedin.com/in/yourprofile)
+- Twitter: [@VuyoMabhuleka](https://twitter.com/VuyoMabhuleka)
+
+Let's connect and build something amazing together! 😄
+
+Thanks for visiting my GitHub profile!
 
 <!---
 VuyolwethuM6/VuyolwethuM6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
