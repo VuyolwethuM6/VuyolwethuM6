@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate Software Dev Candidate based in C
 ## About Me
 
 - 🔭 I'm currently working on Bursary Application Website.
-- 🌱 I'm constantly learning and improving my skills in [HTML, CSS, JavaScript].
-- 📚 I love to share my knowledge and insights through [https://www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289/].
+- 🌱 I'm constantly learning and improving my skills in HTML, CSS, JavaScript.
+- 📚 I love to share my knowledge and insights through [LinkedIn](www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289).
 - 💬 Let's connect! Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289) or [Twitter](https://twitter.com/VuyoMabhuleka).
 
 ## My Projects
@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate Software Dev Candidate based in C
 Here are some of the projects I've worked on:
 
 1. **[Creative Tutors](https://creative-tutors-website.netlify.app/)**
-   - Brief description of the project.
-   - Technologies used: List technologies or languages used.
+   - A team of software development interns and the services they provide.
+   - Technologies used: HTML, CSS, JavaScript.
    - [Demo](https://creative-tutors-website.netlify.app/) | [Repository](https://github.com/VuyolwethuM6/Creative-Tutors-Website)
 
 2. **[Another Project](Link to Project)**
