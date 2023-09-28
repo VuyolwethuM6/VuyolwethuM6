@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate Software Dev Candidate based in C
 
 ## About Me
 
-- 🔭 I'm currently working on Bursary Application Website.
-- 🌱 I'm constantly learning and improving my skills in HTML, CSS, JavaScript.
+- 🔭 I'm currently working on various Websites.
+- 🌱 I'm constantly learning and improving my skills in HTML5, CSS3, Bootstrap, JavaScript.
 - 📚 I love to share my knowledge and insights through [LinkedIn](www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289).
 - 💬 Let's connect! Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289) or [Twitter](https://twitter.com/VuyoMabhuleka).
 
