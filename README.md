@@ -18,12 +18,7 @@ Here are some of the projects I've worked on:
    - Technologies used: HTML, CSS, JavaScript.
    - [Demo](https://creative-tutors-website.netlify.app/) | [Repository](https://github.com/VuyolwethuM6/Creative-Tutors-Website)
 
-2. **[Another Project](Link to Project)**
-   - A platform to showcase a tutoring services and provide valuable resources for students.
-   - Technologies used: HTML, CSS, JavaScript.
-   - [Demo](Link to live demo) | [Repository](Link to GitHub repo)
-
-3. **[Software Development Team](https://creative-innovators-portfolio.netlify.app/)**
+2. **[Software Development Team](https://creative-innovators-portfolio.netlify.app/)**
    - A talented team of software development interns passionate about technology and innovation
    - Technologies used: HTML, CSS, JavaScript.
    - [Demo](https://creative-innovators-portfolio.netlify.app/) | [Repository](https://github.com/VuyolwethuM6/Creative-Innovators-Portfolio)
