@@ -6,8 +6,9 @@ Welcome to my GitHub profile! I'm a passionate Junior Software Dev based in Cape
 
 - 🔭 I'm currently working on various Shared Grocery List Project.
 - 🌱 I'm constantly learning and improving my skills in MERN Stack, Tailwind CSS.
-- 📚 I love to share my knowledge and insights through [LinkedIn](www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289).
-- 💬 Let's connect! Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289) or [Twitter](https://twitter.com/VuyoMabhuleka).
+- 💬 Let's connect! Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=VuyolwethuM6&theme=dark&hide_border=false)
 
 ## My Projects
 
@@ -16,104 +17,89 @@ Here are some of the projects I've worked on:
 1. **[Bank App](https://creative-tutors-website.netlify.app/)**
    - A bank application that you can log on and do various transactions.
    - Technologies used: Python (CustomTkinter), SQL.
-   - [Demo](#) | [Repository](https://github.com/VuyolwethuM6/Creative-Tutors-Website)
+   - [Demo](#) | [Repository](https://github.com/VuyolwethuM6/Banking-App)
 
-2. **[Software Development Team](https://creative-innovators-portfolio.netlify.app/)**
-   - A talented team of software development interns passionate about technology and innovation
-   - Technologies used: HTML, CSS, JavaScript.
-   - [Demo](https://creative-innovators-portfolio.netlify.app/) | [Repository](https://github.com/VuyolwethuM6/Creative-Innovators-Portfolio)
+2. **[Busket Buddy App](https://creative-innovators-portfolio.netlify.app/)**
+   - A shared grocery list application that allows users to Create,Update,Delete grocery items.
+   - Technologies used: MongoDB, Express, ReactJS, NodeJS, Tailwind CCS.
+   - [Demo](#) | [Repository](https://github.com/VuyolwethuM6/Busket-Buddy-App)
 
-You can find more of my projects in my [GitHub repositories](https://github.com/VuyolwethuM6).
-<!--
-## My Blog
+You can find more of my projects in my [GitHub repositories](https://github.com/VuyolwethuM6?tab=repositories).
 
-I occasionally write about [Your Blog Topics] on my blog. Here are some of my recent articles:
+## 💻 Tech Stack:
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="40" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
+</div>
+<div align="center">
 
-1. [Article Title 1](Link to Article)
-   - Brief description of the article.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VuyolwethuM6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-2. [Article Title 2](Link to Article)
-   - Brief description of the article.
+## 🌐 Socials ~ Get in Touch
 
-3. [Article Title 3](Link to Article)
-   - Brief description of the article.
-
-Feel free to check out [my blog](Link to your blog) for more content!
--->
-## Get in Touch
-
+<div align="center">
 I'm always open to interesting collaborations and conversations. You can reach out to me via:
 
-- Email: [Vuyolwethu Mabhuleka](mailto:vmabhuleka@gmail.com)
-- LinkedIn: [Vuyolwethu Mabhuleka](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@VuyoMabhuleka](https://twitter.com/VuyoMabhuleka)
 
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />](www.google.com)
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+</div>
+
+###
+<div align="center">
 Let's connect and build something amazing together! 😄
+<br/>
 
-Thanks for visiting my GitHub profile!
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!---
-VuyolwethuM6/VuyolwethuM6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-# Hello, I'm [Your Name] 👋
+---
+   
+[![](https://visitcount.itsvg.in/api?id=VuyolwethuM6&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
+<h3>
+Thanks for visiting my profile!🙌 Feel free to explore my projects and reach out to me if you have any questions or just want to chat.😇
+</h3>
 
-I'm a [Your Profession] based in [Your Location]. Welcome to my GitHub profile! Here you'll find a collection of my open-source projects, contributions to other repositories, and more.
+</div>
 
-## 📫 Contact Me
-
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
-- Email: your.email@example.com
-
-## 🔧 Technologies & Tools
-
-I enjoy working with a variety of technologies. Here are some that I'm proficient in:
-
-- **Programming Languages:** [List the languages you're proficient in]
-- **Web Development:** [List relevant web development technologies]
-- **Databases:** [List databases you work with]
-- **DevOps/Tools:** [List relevant DevOps tools]
-
-## 💼 Work
-
-- Currently, I work as a [Your Job Title] at [Your Company].
-- Previously, I've worked at [Previous Company] and [Another Company].
-
-## 🌱 I'm Currently Learning
-
-I'm always eager to learn and stay up-to-date with the latest technologies. Right now, I'm focusing on:
-
-- [List what you're currently learning or improving upon]
-
-## 💡 Projects
-
-Here are some of my noteworthy projects:
-
-1. [Project 1](link-to-project-1) - Brief description of what this project does.
-2. [Project 2](link-to-project-2) - Brief description of what this project does.
-3. [Project 3](link-to-project-3) - Brief description of what this project does.
-
-You can find more of my work on [GitHub](https://github.com/yourusername).
-
-## 📚 Blog
-
-I occasionally write technical articles on [Medium](https://medium.com/@yourmediumusername) about [topics you write about]. Check out some of my latest posts:
-
-1. [Article 1](link-to-article-1) - Brief description of the article.
-2. [Article 2](link-to-article-2) - Brief description of the article.
-
-## ✨ Fun Facts
-
-- [Fun fact 1]
-- [Fun fact 2]
-- [Fun fact 3]
-
-Thanks for visiting my profile! Feel free to explore my projects and reach out to me if you have any questions or just want to chat.
-
-
-
---->
