@@ -1,11 +1,11 @@
 # Hello, I'm Vuyowethu Mabhuleka 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Dev Candidate based in Cape Town. Here, you'll find a collection of my projects, contributions, and some insights into my coding journey.
+Welcome to my GitHub profile! I'm a passionate Junior Software Dev based in Cape Town. Here, you'll find a collection of my projects, contributions, and some insights into my coding journey.
 
 ## About Me
 
-- 🔭 I'm currently working on various Websites.
-- 🌱 I'm constantly learning and improving my skills in HTML5, CSS3, Bootstrap, JavaScript.
+- 🔭 I'm currently working on various Shared Grocery List Project.
+- 🌱 I'm constantly learning and improving my skills in MERN Stack, Tailwind CSS.
 - 📚 I love to share my knowledge and insights through [LinkedIn](www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289).
 - 💬 Let's connect! Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289) or [Twitter](https://twitter.com/VuyoMabhuleka).
 
@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm a passionate Software Dev Candidate based in C
 
 Here are some of the projects I've worked on:
 
-1. **[Creative Tutors](https://creative-tutors-website.netlify.app/)**
-   - A team of software development interns and the services they provide.
-   - Technologies used: HTML, CSS, JavaScript.
-   - [Demo](https://creative-tutors-website.netlify.app/) | [Repository](https://github.com/VuyolwethuM6/Creative-Tutors-Website)
+1. **[Bank App](https://creative-tutors-website.netlify.app/)**
+   - A bank application that you can log on and do various transactions.
+   - Technologies used: Python (CustomTkinter), SQL.
+   - [Demo](#) | [Repository](https://github.com/VuyolwethuM6/Creative-Tutors-Website)
 
 2. **[Software Development Team](https://creative-innovators-portfolio.netlify.app/)**
    - A talented team of software development interns passionate about technology and innovation
