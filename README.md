@@ -14,12 +14,12 @@ Welcome to my GitHub profile! I'm a passionate Junior Software Dev based in Cape
 
 Here are some of the projects I've worked on:
 
-1. **[Bank App](https://creative-tutors-website.netlify.app/)**
+1. **[Bank App](#)**
    - A bank application that you can log on and do various transactions.
    - Technologies used: Python (CustomTkinter), SQL.
    - [Demo](#) | [Repository](https://github.com/VuyolwethuM6/Banking-App)
 
-2. **[Busket Buddy App](https://creative-innovators-portfolio.netlify.app/)**
+2. **[Busket Buddy App](#)**
    - A shared grocery list application that allows users to Create,Update,Delete grocery items.
    - Technologies used: MongoDB, Express, ReactJS, NodeJS, Tailwind CCS.
    - [Demo](#) | [Repository](https://github.com/VuyolwethuM6/Busket-Buddy-App)
