@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Junior Software Dev based in Cape
 
 ## About Me
 
-- 🔭 I'm currently working on various Shared Grocery List Project.
+- 🔭 I'm currently working on various projects such as Viva Plartform.
 - 🌱 I'm constantly learning and improving my skills in MERN Stack, Tailwind CSS.
 - 💬 Let's connect! Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/vuyolwethu-mabhuleka-89092b289)
 
