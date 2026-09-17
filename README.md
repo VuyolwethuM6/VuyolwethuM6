@@ -16,7 +16,7 @@
 
 ## 👋 Who I Am
 
-I'm a 25-year-old Cape Town-based **Fullstack Developer and Data Systems Builder** from Mfuleni, with a BSc in Physics and Mathematics (Walter Sisulu University, 74% average — distinctions in Real Analysis II, Linear Algebra II, and General Physics II). My physics background isn't just a credential; it's the lens through which I approach engineering: rigorously, systematically, and with a long view.
+I'm Vuyo, a Cape Town-based **Fullstack Developer and Data Systems Builder** from Mfuleni, with a BSc in Physics and Mathematics (Walter Sisulu University, 74% average — distinctions in Real Analysis II, Linear Algebra II, and General Physics II). My physics background isn't just a credential; it's the lens through which I approach engineering: rigorously, systematically, and with a long view.
 
 I build **AI-powered tools that automate workflows and turn data into decisions**. My current focus is evolving toward **data engineering**, targeting the Databricks Certified Data Engineer Associate certification, while simultaneously running my own tutoring platform and pursuing a PGCE to deepen my work at the intersection of technology and education.
 
